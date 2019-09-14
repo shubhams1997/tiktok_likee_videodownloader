@@ -1,0 +1,23 @@
+Thank You for this project!
+
+Instructions.
+1. Make sure your computer have latest version of python which is PYTHON 3.7
+
+2. You need to install three libraries using pip command 
+	a. Requests   	- pip install requests
+	b. urllib	- pip install urllib
+	c. selenium	- pip install selenium
+
+3. Set the Environment variable PATH to this folder so that computer can search for 
+Chromedriver.exe which is present in this folder
+
+
+Usage:
+1. Paste links in links.txt and only 1 link in one line
+2. If you want to download TikTok video from video id then past video id in tiktokids.txt file (only work with TikTok video id)
+
+3. Run the script [ python Script.py ]
+
+4. Enjoy your Offline videos
+
+Thank you
